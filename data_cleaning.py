@@ -1,0 +1,13 @@
+import pandas as pd
+df = pd.read_excel('dataset.xlsx')
+print(df.head())
+print(df.info())
+print(df.isnull().sum())
+df = df.dropna()
+df = df.drop_duplicates()
+df.columns = df.columns.str.strip()
+print(df.head())
+print(df.info())
+df.to_excel('cleaned_dataset.xlsx', index=False)
+print(df.dtypes)
+df.to_excel("cleaned_data.xlsx", index=False)

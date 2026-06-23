@@ -1,0 +1,60 @@
+# Project 4: Data Visualization (E-commerce Dataset)
+
+## 📌 Objective
+The goal of this project is to create meaningful visualizations from an e-commerce dataset to extract insights and present data in a clear and understandable way.
+
+---
+
+## 📊 Dataset Overview
+- Total Records: 1200
+- Total Columns: 14
+- Type: E-commerce transactional data
+
+---
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+---
+
+## 📈 Visualizations Created
+
+### 1. Product Distribution (Bar Chart)
+- Shows frequency of each product sold.
+- Helps identify best-selling products.
+
+### 2. Order Status (Pie Chart)
+- Displays proportion of different order statuses (Delivered, Cancelled, etc.).
+- Helps understand order completion rate.
+
+### 3. Referral Source Analysis (Bar/Pie Chart)
+- Shows where customers are coming from (Instagram, Facebook, Email, etc.).
+
+### 4. Items in Cart (Histogram)
+- Shows distribution of number of items per order.
+- Helps understand customer buying behavior.
+
+### 5. Total Price Distribution (Histogram)
+- Shows spending pattern of customers.
+- Helps identify low, medium, and high-value purchases.
+
+---
+
+## 🔍 Key Insights
+- Certain products dominate sales compared to others.
+- Most orders fall under specific status categories.
+- Social media platforms are major traffic sources.
+- Customers mostly buy 5–7 items per order.
+- Majority of customers fall in mid-range spending category.
+
+---
+
+## 🎯 Conclusion
+This project demonstrates how data visualization helps convert raw data into meaningful insights for better business decision-making.
+
+---
+
+## 👨‍💻 Author
+Data Analytics Intern Project - Task 4
